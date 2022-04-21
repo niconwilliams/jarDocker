@@ -6,5 +6,9 @@ DOWNLOAD THE JAR FILES//
 AND PLACE THEM IN YOUR TARGET FOLDER//
 IMAGES CAN BE ACCESSED FROM THE COMMAND LINE..
 
+#GitHubDesktop
+
+(if you have GitHub Desktop you may upload files over (25MB) directly to Github project folders, for future reference).
+
 
 LINK:
